@@ -1,0 +1,2 @@
+this is mac
+this is windows
