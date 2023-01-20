@@ -1,7 +1,6 @@
 # Shell scrtpt learning
-* Include diffrent sections
-* How to comment in shell
-* Condtions and Loops in shell
+* How to comment
+* Condtions and Loops
 * Array 
 * Grep
 * Functions
